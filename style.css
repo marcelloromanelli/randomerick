@@ -1,0 +1,26 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Oswald', sans-serif;
+    
+    overflow: hidden;  
+    height: 10000px;
+    width: 100%;
+    background: -webkit-linear-gradient(top, #21A8B9, #87A3DB);
+    text-shadow: 0 -1px -1px #1f2f52;
+    margin: 0;
+    padding: 0;
+}
+
+#randomQuote {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
+    font-size: 96px;
+}
