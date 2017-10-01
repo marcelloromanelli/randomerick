@@ -7,20 +7,27 @@ body {
     font-family: 'Oswald', sans-serif;
     
     overflow: hidden;  
-    height: 10000px;
+    
     width: 100%;
-    background: -webkit-linear-gradient(top, #21A8B9, #87A3DB);
-    text-shadow: 0 -1px -1px #1f2f52;
+    height: 100%;
+
+    background-color: #21A8B9;
+    background-image: linear-gradient(to right, #6E6E6E 0%,#C7C7C7 100%), url('erick.jpg');
+    background-blend-mode: color-dodge;
+    background-size: cover;
     margin: 0;
     padding: 0;
 }
 
 #randomQuote {
-    color: white;
+    color: black;
     display: flex;
     align-items: center;
     justify-content: center;
     height: 100vh;
-    width: 100%;
+    width: 100vw;
     font-size: 96px;
+    padding: 0 100px;
+    margin: 0;
+    box-sizing: border-box;
 }
