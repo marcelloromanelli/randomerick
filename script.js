@@ -8,7 +8,10 @@
         'git did',
         'this I mean',
         'I LOVE ❤️',
-        'ALL'
+        'ALL',
+        'Does anybody knows where is Jakub?',
+        'I wish I could die!',
+        'I dont speak like this'
     ];
 
     setInterval(function () {
