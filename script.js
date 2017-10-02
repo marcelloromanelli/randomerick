@@ -11,7 +11,8 @@
         'ALL',
         'Does anybody knows where is Jakub?',
         'I wish I could die!',
-        'I dont speak like this'
+        'I dont speak like this',
+        'Mitu dont'
     ];
 
     setInterval(function () {
